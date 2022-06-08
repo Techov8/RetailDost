@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087326734715",
+    "project_id": "whole2sale-retail",
+    "storage_bucket": "whole2sale-retail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087326734715:android:94799f77a72f3b2cd155de",
+        "android_client_info": {
+          "package_name": "com.techov8.retaildost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087326734715-0tlsoupmj32uvejn367a9k6q1s4g5oqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBubXh6ZiFy6QnW2PuN6-6teeUXTb-R3kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087326734715-0tlsoupmj32uvejn367a9k6q1s4g5oqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

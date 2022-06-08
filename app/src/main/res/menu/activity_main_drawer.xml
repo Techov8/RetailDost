@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+        <item
+            android:id="@+id/nav_my_home"
+            android:icon="@mipmap/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_my_orders"
+            android:icon="@mipmap/basket"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/nav_my_cart"
+            android:icon="@mipmap/cart"
+            android:title="My Cart" />
+
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@mipmap/contact"
+            android:title="Contact Us" />
+
+        <item
+            android:id="@+id/nav_my_account"
+            android:icon="@mipmap/account"
+            android:title="My Account" />
+    </group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/group2">
+        <item
+            android:id="@+id/nav_privacy_policy"
+            android:icon="@mipmap/policy"
+            android:title="Privacy Policy" />
+        <item
+            android:id="@+id/nav_faqs"
+            android:icon="@mipmap/baseline_info_black_48"
+            android:title="FAQs" />
+        <item
+            android:id="@+id/nav_rate_us"
+            android:icon="@android:drawable/btn_star"
+            android:title="Rate us" />
+
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@mipmap/signout"
+            android:title="Sign Out" />
+    </group>
+</menu>
